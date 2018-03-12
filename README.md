@@ -8,3 +8,5 @@ A small game to guess the Pokemon Name.
 3) Once the packages are installed and you have node_modules folder
 4) Run the command . - npm start
 5) http://localhost:3000/ check the application
+
+# DEMO https://hangman-ae6c3.firebaseapp.com/
